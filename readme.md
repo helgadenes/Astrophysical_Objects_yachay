@@ -23,6 +23,7 @@ Material for the Astrophysical Objects class at Yachay Tech
 - Arnab Rai Choudhuri: Astrophysics for physicists 
 - Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
 - NRAO: Essential Radio Astronomy (https://science.nrao.edu/opportunities/courses/era)
+- Carroll, Bradley W., and Dale A. Ostlie. An Introduction to Modern Astrophysics
 
 
 ## Lecture notes
