@@ -20,9 +20,9 @@ Material for the Astrophysical Objects class at Yachay Tech
 
 ## Recommended reading:
 
-Arnab Rai Choudhuri: Astrophysics for physicists 
-Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
-NRAO: Essential Radio Astronomy (https://science.nrao.edu/opportunities/courses/era)
+- Arnab Rai Choudhuri: Astrophysics for physicists 
+- Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
+- NRAO: Essential Radio Astronomy (https://science.nrao.edu/opportunities/courses/era)
 
 
 ## Lecture notes
