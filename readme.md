@@ -1,10 +1,30 @@
-Astrophysical Objects class at Yachay Tech
-2023 2nd semester 
+# Astrophysical Objects Yachay
+Material for the Astrophysical Objects class at Yachay Tech
 
-# Syllabus
+2023 2nd semester
 
-- Multi-wavelength astrophysics
-- Interstellar medium
-- Star formation and planet formation
-- Black holes and related phenomena
-- Galaxies
+## Syllabus
+
+1. Multi-wavelength astrophysics
+2. Interstellar medium
+3. Star formation and planet formation
+4. Black holes and related phenomena
+5. Galaxies
+
+## Evaluation
+
+- Quizzes - 40% of the grade
+- Midterm exam - 30% of the grade 
+- Final exam - 30% of the grade
+
+
+## Recommended books
+
+
+## Lecture notes
+The slides presented in class are in the folder called slides.
+
+Slides will be updated regularly.
+
+## Contact
+hdenes@yachaytech.edu.ec
