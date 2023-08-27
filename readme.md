@@ -13,12 +13,16 @@ Material for the Astrophysical Objects class at Yachay Tech
 
 ## Evaluation
 
-- Quizzes - 40% of the grade
+- Quizzes + Homework - 40% of the grade
 - Midterm exam - 30% of the grade 
 - Final exam - 30% of the grade
 
 
-## Recommended books
+## Recommended reading:
+
+Arnab Rai Choudhuri: Astrophysics for physicists 
+Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
+NRAO: Essential Radio Astronomy (https://science.nrao.edu/opportunities/courses/era)
 
 
 ## Lecture notes
