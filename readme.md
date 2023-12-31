@@ -9,8 +9,9 @@ Material for the Astrophysical Objects class at Yachay Tech
 2. Interstellar medium
 3. Star formation
 4. Planet formation
-5. Black holes and related phenomena
-6. Galaxies
+5. Black holes
+6. Active Galactic Nuclei (AGN)
+7. Galaxies
 
 ## Evaluation
 
